@@ -132,7 +132,7 @@ async def khalid(client: Client, message: Message):
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1c167f98ec87794b4af2c.jpg",
+        photo=f"https://telegra.ph/file/8b643eccc82b129a6eb42.jpg",
         caption=f"""𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙩𝙝𝙚  𝘽𝘼𝘽𝙇𝙊𝙊 𝙎𝙤𝙪𝙧𝙘𝙚""",
         reply_markup=InlineKeyboardMarkup(
             [
