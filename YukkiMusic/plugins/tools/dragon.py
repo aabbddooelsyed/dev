@@ -161,7 +161,7 @@ async def khalid(client: Client, message: Message):
                 InlineKeyboardButton(
                         "╞. 𝙎𝙊𝙐𝙍𝘾𝙀 𝘽𝘼𝘽𝙇𝙊𝙊.╡", url=f"https://t.me/BA_BLOO"),
             ],[
-                InlineKeyboardButton("✚ أضفني الى مجموعتك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("✚ أضفني الى مجموعتك", url=f"https://t.me/Music_BaBLOO_bot?startgroup=true"),
             ]
         ]
          ),
